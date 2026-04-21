@@ -1,0 +1,22 @@
+# Gradle files
+.gradle/
+build/
+gradle/
+
+# IDE files
+.idea/
+*.iml
+.name
+*.xml
+!gradle-wrapper.xml
+.DS_Store
+
+# Local configuration
+local.properties
+
+# Kotlin
+.kotlin/
+
+# OS files
+.DS_Store
+

@@ -1,0 +1,24 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/
+/.settings
+/.classpath
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Ignore all build folders in subprojects
+**/build/
+**/.gradle/
+**/local.properties
+**/.idea/
+
+# Ignore IDE folders
+.vscode/
+*.swp
+*.swo
+*~
